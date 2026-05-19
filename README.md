@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm K Sriganesh Kamath</h1>
+<h1 align="center">Hi 👨‍💻, I'm K Sriganesh Kamath</h1>
 <h3 align="center">AI & Backend Developer | Building Intelligent Systems with GenAI, NLP & Scalable APIs</h3>
 
 <p align="center">
